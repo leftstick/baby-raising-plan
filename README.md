@@ -5,7 +5,7 @@
   <br>
 </p>
 
-## Awesome Vue.js [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome)
+## Awesome Nerf [![Awesome](https://img.shields.io/badge/awesome-nerf-1abc9c.svg)](https://github.com/leftstick/awesome-nerf)
 
 > 想多多了解下`nerf`，来这儿，没错了
 
