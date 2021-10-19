@@ -5,7 +5,7 @@
   <br>
 </p>
 
-## Awesome Nerf [![Awesome](https://img.shields.io/badge/awesome-nerf-1abc9c.svg)](https://github.com/leftstick/awesome-nerf)
+## 奶爸带娃计划 [![Awesome](https://img.shields.io/badge/awesome-nerf-1abc9c.svg)](https://github.com/leftstick/baby-raising-plan)
 
 > 想多多了解下`nerf`，来这儿，没错了
 
