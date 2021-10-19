@@ -5,7 +5,7 @@
   <br>
 </p>
 
-## 奶爸带娃计划 [![Baby Raising Plan](https://img.shields.io/badge/awesome-nerf-1abc9c.svg)](https://github.com/leftstick/baby-raising-plan)
+## 奶爸带娃计划 [![Baby Raising Plan](https://img.shields.io/badge/baby.raising-plan-1abc9c.svg)](https://github.com/leftstick/baby-raising-plan)
 
 > 想多多了解下`nerf`，来这儿，没错了
 
