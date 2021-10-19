@@ -1,6 +1,6 @@
 <p align="center">
   <br>
-  <img width="400" src="./assets/nerf-logo.png" alt="logo of nerf">
+  <img width="400" src="./assets/superdaddy.jpg" alt="logo of nerf">
   <br>
   <br>
 </p>
