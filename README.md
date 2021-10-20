@@ -13,3 +13,8 @@
 
 * 一颗随时准备为娃疯狂输出的心
 * 一双不灵活但可以修炼的手
+
+
+## Quick Start
+
+所有内容，尽在[这里](https://github.com/leftstick/baby-raising-plan/issues)
